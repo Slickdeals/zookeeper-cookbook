@@ -2,6 +2,10 @@
 
 This file is used to list changes made in each version of zookeeper.
 
+## 14.0.1
+
+* Allow for newer versions of ark
+
 ## 14.0.0
 
 * Drop Chef 13 support; it is EOL as of April 2020
